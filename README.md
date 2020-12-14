@@ -1,4 +1,4 @@
-# MSE 3114
+# MSE3114
 Introduction to Python for MSE students part 2.  
 
 This course was first taught Fall 2020 and is under continual development as I advance in python myself.
